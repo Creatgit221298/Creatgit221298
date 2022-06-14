@@ -1,4 +1,4 @@
-i=1
+TEST_CONFLICT
 if i!=0:
 print("YES")
 else:
